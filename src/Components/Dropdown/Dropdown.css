@@ -1,0 +1,9 @@
+.dropdown{
+display: flex;
+align-items: center;
+margin: 0px 20px;
+}
+.dropdown p{
+    color: #ffff;
+    font-size: 14px;
+}

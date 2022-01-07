@@ -1,0 +1,14 @@
+.repoHolder{
+    border:1px solid var(--border);
+    margin:30px
+}
+.holderHeader{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #2F3537;
+    padding:10px
+}
+.dropDownHolder{
+    display: flex;
+}

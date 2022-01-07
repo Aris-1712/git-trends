@@ -1,0 +1,15 @@
+h1 {
+    color:#ffff;
+}
+p{
+    color: #ffff;
+    margin:0
+}
+.divider{
+    border-top:1px solid var(--border);
+    margin:20px 0px
+}
+.App{
+    text-align: center;
+    margin:50px 0px
+}

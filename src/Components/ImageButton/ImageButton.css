@@ -1,0 +1,14 @@
+.imageButton {
+    display: flex;
+    width: fit-content;
+    padding: 5px 10px;
+    align-items: center;
+    border:1px solid var(--border);
+    background-color: var(--border);
+    border-radius: 5px;
+    cursor: pointer;
+}
+.imageButton p {
+    margin: 0 3px;
+    color: #ffff;
+}

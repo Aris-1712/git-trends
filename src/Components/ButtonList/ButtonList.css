@@ -1,0 +1,20 @@
+.ButtonList {
+    border:1px solid var(--border);
+    width: fit-content;
+    display: flex;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.btn{
+    background-color: var(--bg);
+    outline: none;
+    border:none;
+    padding: 5PX 20px;
+    width:100px;
+    color: #ffff;
+    cursor: pointer;
+}
+
+.btn.activeButtonList{
+    background-color: var(--blue);
+}
